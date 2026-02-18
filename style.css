@@ -81,4 +81,6 @@ h2 {
 /* 5) Responsive */
 @media (min-width: 700px) {
   .projects {
-    gr
+    grid-template-columns: 1fr 1fr;
+  }
+}
